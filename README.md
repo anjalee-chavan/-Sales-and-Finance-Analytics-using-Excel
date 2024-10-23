@@ -29,4 +29,4 @@ Made it quicker and easier for AtliQ Hardware to locate and utilize their sales 
 #### 📈 Enhanced Analysis
 Facilitated more effective analysis of sales trends, financial performance, and key metrics by having all data in one central location.
 
-Attached are some sneak peeks of the impactful Excel reports I've crafted for AtliQ Hardware. Dive in and explore! 📊🔍📈
+Attached are some sneak peeks of the impactful Excel reports I've crafted for AtliQ Hardware. Dive in and explore!
